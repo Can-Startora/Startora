@@ -1,0 +1,16 @@
+{
+  "name": "student-launchpad-blockchain",
+  "version": "1.0.0",
+  "description": "Hardhat configuration and Solidity smart contracts for Idea IP protection",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "node": "npx hardhat node"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.4"
+  }
+}

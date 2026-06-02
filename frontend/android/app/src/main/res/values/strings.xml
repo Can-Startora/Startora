@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Launchpad</string>
+    <string name="title_activity_main">Launchpad</string>
+    <string name="package_name">com.launchpad.app</string>
+    <string name="custom_url_scheme">com.launchpad.app</string>
+</resources>
