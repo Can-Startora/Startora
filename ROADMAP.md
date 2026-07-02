@@ -1,5 +1,14 @@
 # Startora (Virtual Startup Launchpad) - Roadmap
 
+<p align="center">
+  <b><a href="./README.md">🏠 Home</a></b> •
+  <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
+  <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
+  <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
+  <b><a href="./LICENSE">⚖️ License</a></b> •
+  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
+</p>
+
 This roadmap details the milestones and future developmental plans for the **Virtual Startup Launchpad (Startora)** ecosystem. We divide our goals into completed foundations, short-term database synchronization, mid-term gamification additions, and long-term decentralized/mobile scaling.
 
 ---

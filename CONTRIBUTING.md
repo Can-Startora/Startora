@@ -1,5 +1,14 @@
 # Contributing to Virtual Startup Launchpad
 
+<p align="center">
+  <b><a href="./README.md">🏠 Home</a></b> •
+  <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
+  <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
+  <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
+  <b><a href="./LICENSE">⚖️ License</a></b> •
+  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
+</p>
+
 First off, thank you for taking the time to contribute! 🎉
 
 We welcome contributions from developers of all skill levels. By contributing to Virtual Startup Launchpad (Startora), you help build a better innovation ecosystem for students worldwide.
