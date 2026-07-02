@@ -1,14 +1,5 @@
 # Contributing to Virtual Startup Launchpad
 
-<p align="center">
-  <b><a href="./README.md">🏠 Home</a></b> •
-  <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
-  <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
-  <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
-  <b><a href="./LICENSE">⚖️ License</a></b> •
-  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
-</p>
-
 First off, thank you for taking the time to contribute! 🎉
 
 We welcome contributions from developers of all skill levels. By contributing to Virtual Startup Launchpad (Startora), you help build a better innovation ecosystem for students worldwide.
@@ -221,4 +212,4 @@ Examples:
 
 We curate beginner-friendly tasks marked as `good first issue` to help you get started with the codebase! 
 
-Check out [NEWCOMER_ISSUES.md](NEWCOMER_ISSUES.md) for a curated list of starter issues that you can pick up immediately to start contributing.
+Check out the local `NEWCOMER_ISSUES.md` file in the root of the repository for a curated list of starter issues that you can pick up immediately to start contributing.

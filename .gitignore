@@ -63,3 +63,8 @@ lerna-debug.log*
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Local newcomer issues guidelines
+NEWCOMER_ISSUES.md
+newcomerissue.md
+
