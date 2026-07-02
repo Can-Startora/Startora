@@ -1,5 +1,14 @@
 # Open Issues for Newcomers
 
+<p align="center">
+  <b><a href="./README.md">🏠 Home</a></b> •
+  <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
+  <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
+  <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
+  <b><a href="./LICENSE">⚖️ License</a></b> •
+  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
+</p>
+
 Welcome! If you are new to the **Virtual Startup Launchpad** repository and want to make your first contribution, this file is the perfect place to start. We have compiled a list of beginner-friendly tasks categorized by difficulty, language, and project modules.
 
 ---

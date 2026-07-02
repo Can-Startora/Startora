@@ -1,12 +1,22 @@
 # Virtual Startup Launchpad
 
 <p align="center">
+  <b><a href="./README.md">🏠 Home</a></b> •
+  <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
+  <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
+  <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
+  <b><a href="./LICENSE">⚖️ License</a></b> •
+  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
   <img src="https://img.shields.io/badge/Built%20With-React%20%26%20Node-teal" alt="Built With React and Node" />
   <img src="https://img.shields.io/badge/AI%20Service-FastAPI-orange" alt="FastAPI AI Service" />
   <img src="https://img.shields.io/badge/Blockchain-Solidity%20%26%20Polygon-purple" alt="Blockchain Solidity and Polygon" />
 </p>
+
 
 Virtual Startup Launchpad (Startora) is a web-based innovation ecosystem designed to help students transform ideas into startups through collaboration, community engagement, AI-powered insights, and decentralized governance.
 
