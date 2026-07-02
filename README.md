@@ -5,8 +5,7 @@
   <b><a href="./ROADMAP.md">🛣️ Roadmap</a></b> •
   <b><a href="./CONTRIBUTING.md">🤝 Contributing</a></b> •
   <b><a href="./CODE_OF_CONDUCT.md">📜 Code of Conduct</a></b> •
-  <b><a href="./LICENSE">⚖️ License</a></b> •
-  <b><a href="./NEWCOMER_ISSUES.md">🐛 Newcomer Issues</a></b>
+  <b><a href="./LICENSE">⚖️ License</a></b>
 </p>
 
 <p align="center">
@@ -200,5 +199,5 @@ We welcome contributions of all forms—bug reports, documentation, feature requ
 
 * To understand our code standards and local setup instructions, see our [Contributing Guide](CONTRIBUTING.md).
 * All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-* Ready to start coding? We've compiled some starter tasks in [NEWCOMER_ISSUES.md](NEWCOMER_ISSUES.md).
+* Ready to start coding? We've compiled some starter tasks in your local `NEWCOMER_ISSUES.md` file.
 * This project is licensed under the [MIT License](LICENSE).
