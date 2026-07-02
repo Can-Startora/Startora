@@ -1,0 +1,57 @@
+name: Bug Report
+about: Create a report to help us improve the platform
+title: '[BUG] '
+labels: bug
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting this issue! Please provide the details below so we can reproduce and fix it.
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+      placeholder: Describe the problem...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Explain how we can reproduce the problem step-by-step.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+      placeholder: What should have happened?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment Info
+      description: Operating system, browser version, Node/npm versions, database configurations.
+      placeholder: |
+        - OS: [e.g. Ubuntu 22.04 / Windows 11]
+        - Browser: [e.g. Chrome 124 / Firefox 125]
+        - Node Version: [e.g. 18.16.0]
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Videos
+      description: If applicable, add screenshots or video links to help explain your problem.
+      placeholder: Drag and drop or paste links here...
+    validations:
+      required: false
